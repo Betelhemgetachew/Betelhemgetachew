@@ -1,5 +1,5 @@
 👋 Hi, I’m @Betelhemgetachew  
-👀 I’m interested in data science, machine learning, and data analytics.  
+👀 I’m interested in Halthcare AI, Responsible AI, and Computer Vision.  
 🌱 I’m currently learning advanced machine learning techniques and big data technologies.  
 💞️ I’m looking to collaborate on data-driven projects, particularly in areas that promote environmental sustainability and education.  
 📫 How to reach me: kebede.betelhem16@gmail.com  
